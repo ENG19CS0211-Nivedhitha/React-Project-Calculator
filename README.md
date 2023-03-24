@@ -1,3 +1,6 @@
+## Project Goal
+This project uses React js to build a Calculator application. The developed application performs all the basic arithmetic operations done by a normal calculator. It also includes features like the clear and the delete option in-case the user wants to retype the operation to be performed. All the components were separately built and then put together to result in an application that mimics the actions of a calculator. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
